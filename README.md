@@ -25,7 +25,7 @@ Hold your offhand up to your head and click trigger to scan for dirt.
 
 
 ## Finger Tracking and Steam Frame Support
-There's full individual finger tracking and a custom control configuration to take advantage of the steam frame. There's also control preset's in the settings for the frame as well as other headsets.
+There's full individual finger tracking and a custom control configuration to take advantage of the steam frame. There's also control preset's in the settings for other headsets.
 <img width="800" height="450" alt="fingers" src="https://github.com/user-attachments/assets/9b92cc78-ee41-415e-ae3a-217641ae36da" />
 
 
@@ -40,6 +40,9 @@ There's full individual finger tracking and a custom control configuration to ta
 - Control Presets
 - Auto-Detect Steamvr setting for easy flat screen switching
 - Character cosmetics refelct on your backpack and hands
+
+# Known Issues
+- Some grass textures appear smeary. This is because they would only render in one eye and this was the best solution I could find. Might look into this later.
 
 # Install
 Grab the latest [Release](release) and run the "install.cmd". That's it!
