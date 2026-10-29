@@ -40,3 +40,9 @@ There's full individual finger tracking and a custom control configuration to ta
 - Control Presets
 - Auto-Detect Steamvr setting for easy flat screen switching
 - Character cosmetics refelct on your backpack and hands
+
+# Install
+Grab the latest [Release](release) and run the "install.cmd". That's it!
+<br>
+<br>
+If you'd like to manually install the mod and are familiar with melonloader mods, you can also just grab the dll. The mod uses Melonloader 0.7.3
