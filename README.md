@@ -19,15 +19,19 @@ A backpack is located over your offhand shoulder. Inside you can change your was
 All interactions sync and appear amongst other players who have the mod. You can see them grab there backpack, clipboard, or if they're left handed. Players with the mod who aren't in VR can still see these things as well.
 <img width="800" height="450" alt="multiplayer" src="https://github.com/user-attachments/assets/40bdda1a-f88d-4367-b802-bfbe0aa2773b" />
 
+## Physical Dirt Scanning
+Hold your offhand up to your head and click trigger to scan for dirt.
+<img width="800" height="450" alt="2026-10-2916-55-51-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/0519b8eb-aafd-4fd3-bffe-ed16a319522d" />
+
 
 ## Finger Tracking and Steam Frame Support
 There's full individual finger tracking and a custom control configuration to take advantage of the steam frame. There's also control preset's in the settings for the frame as well as other headsets.
 <img width="800" height="450" alt="fingers" src="https://github.com/user-attachments/assets/9b92cc78-ee41-415e-ae3a-217641ae36da" />
 
 
+
 # Other Features
 - A LOT of settings
-- Scan dirt by holding your offhand up to your head and clicking trigger
 - VR settings don't interfere with flatscreen settings
 - A clipboard is located on your washer hand's back where you can see uncompleted tasks
 - Smooth camera option
