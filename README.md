@@ -2,11 +2,11 @@
 # Click [Here](https://youtu.be/MPnNcnfp2vA) To Watch the Trailer
 [<img width="2559" height="1439" alt="Screenshot 2026-10-29 154326" src="https://github.com/user-attachments/assets/54de3e65-7096-4b6b-b913-7f2f4de29dea" />](https://youtu.be/MPnNcnfp2vA)
 
-A mod for Powerwash Simulator 2 that implements VR. Designed to feel eloquent and add physical interactions to the game to make it feel like a native VR game.
+A mod for Powerwash Simulator 2 that implements VR. Designed to feel eloquent and add physical interactions to the game to make it feel like a native VR game. Currently aimed to at least match/slightly exceed the first game's official VR implementation, with future updates planned to be even better.
 
 # Main Features
 ## Nozzle Belt
-A belt appears on your hip with the nozzles grabbable and attachable physically, just like in the first game's official VR port.
+A belt appears on your hip with grabbable nozzles that can be attached physically, just like in the first game's official VR port. You can even throw them now!
 
 <img width="800" height="450" alt="2026-10-2916-25-38-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/776ce403-5182-45cc-8a97-eafb98fba837" />
 
@@ -18,7 +18,7 @@ A backpack is located over your offhand shoulder. Inside you can change your was
 
 
 ## Multiplayer Syncing
-All interactions sync and appear amongst other players who have the mod. You can see them grab there backpack, clipboard, or if they're left handed. Players with the mod who aren't in VR can still see these things as well.
+All interactions sync and appear amongst other players who have the mod. You can see them grab their backpack, clipboard, or if they're left handed. Players with the mod who aren't in VR can still see these things as well. 
 
 <img width="800" height="450" alt="multiplayer" src="https://github.com/user-attachments/assets/40bdda1a-f88d-4367-b802-bfbe0aa2773b" />
 
@@ -38,13 +38,14 @@ There's full individual finger tracking and a custom control configuration to ta
 # Other Features
 - A LOT of settings
 - VR settings don't interfere with flatscreen settings
-- A clipboard is located on your washer hand's back where you can see uncompleted tasks
+- A clipboard is located on your dominant hand's back where you can see uncompleted tasks
 - Smooth camera option
 - Limited support for players without the mod
 - Left handed mode
 - Control Presets
-- Auto-Detect Steamvr setting for easy flat screen switching
+- Auto-Detect Steamvr setting that launches the game in flat mode when you don't have a headset connected
 - Character cosmetics refelct on your backpack and hands
+- Much much more!
 
 # Known Issues
 - Starting a new multiplayer lobby without a game restart will not show the synced VR interactions. This will be fixed in an update.
