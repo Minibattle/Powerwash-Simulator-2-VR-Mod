@@ -48,6 +48,7 @@ There's full individual finger tracking and a custom control configuration to ta
 
 # Known Issues
 - Some grass textures appear smeary. This is because they would only render in one eye and this was the best solution I could find. Might look into this later.
+- There's no way to edit furniture in VR. Might implement later if people actually care for it.
 
 # Install
 Grab the latest [Release](release) and run the "install.cmd". That's it!
