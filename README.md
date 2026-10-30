@@ -56,4 +56,4 @@ There's full individual finger tracking and a custom control configuration to ta
 Grab the latest [Release](https://github.com/Minibattle/Powerwash-Simulator-2-VR-Mod/releases) and run the "install.cmd". That's it!
 <br>
 <br>
-If you'd like to manually install the mod and are familiar with melonloader mods, you can also just grab the dll. The mod uses Melonloader 0.7.3
+If you'd like to manually install the mod and are familiar with melonloader mods, you can also just grab the dll and the unity plugins included in the manual install zip.
