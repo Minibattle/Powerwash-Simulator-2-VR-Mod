@@ -1,5 +1,5 @@
 # Powerwash Simulator 2 VR Mod
-# Click [Here](VideoLink) To Watch the Trailer
+# Click [Here](https://youtu.be/MPnNcnfp2vA) To Watch the Trailer
 [<img width="2559" height="1439" alt="Screenshot 2026-10-29 154326" src="https://github.com/user-attachments/assets/54de3e65-7096-4b6b-b913-7f2f4de29dea" />](VideoLink)
 
 A mod for Powerwash Simulator 2 that implements VR. Designed to feel eloquent and add physical interactions to the game to make it feel like a native VR game.
@@ -51,7 +51,7 @@ There's full individual finger tracking and a custom control configuration to ta
 - There's no way to edit furniture in VR. Might implement later if people actually care for it.
 
 # Install
-Grab the latest [Release](release) and run the "install.cmd". That's it!
+Grab the latest [Release](https://github.com/Minibattle/Powerwash-Simulator-2-VR-Mod/releases) and run the "install.cmd". That's it!
 <br>
 <br>
 If you'd like to manually install the mod and are familiar with melonloader mods, you can also just grab the dll. The mod uses Melonloader 0.7.3
