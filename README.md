@@ -57,3 +57,7 @@ Grab the latest [Release](https://github.com/Minibattle/Powerwash-Simulator-2-VR
 <br>
 <br>
 If you'd like to manually install the mod and are familiar with melonloader mods, you can also just grab the dll and the unity plugins included in the manual install zip.
+
+> [!NOTE]
+> **Disclaimer:** This mod is made with AI tools.
+
