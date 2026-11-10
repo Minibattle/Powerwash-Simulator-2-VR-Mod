@@ -12,13 +12,13 @@ A belt appears on your hip with grabbable nozzles that can be attached physicall
 
 
 ## Washer Backpack
-A backpack is located over your offhand shoulder. Inside you can change your washer, nozzle, and extension by using the radial menu's that change based on what's being held.
+A backpack is located over your offhand shoulder. Inside you can change your washer, nozzle, and extension all with physical interactions or radial menu's depending on your preference.
 
 <img width="800" height="450" alt="backpack" src="https://github.com/user-attachments/assets/0260ac6d-bac5-4d19-87ae-5e1a358ff908" />
 
 
 ## Multiplayer Syncing
-All interactions sync and appear amongst other players who have the mod. You can see them grab their backpack, clipboard, or if they're left handed. Players with the mod who aren't in VR can still see these things as well. 
+All interactions sync and appear amongst other players who have the mod. You can see them grab their backpack, clipboard, attachments, or if they're left handed. Players with the mod who aren't in VR can still see these things as well. 
 
 <img width="800" height="450" alt="multiplayer" src="https://github.com/user-attachments/assets/40bdda1a-f88d-4367-b802-bfbe0aa2773b" />
 
@@ -47,9 +47,6 @@ There's full individual finger tracking and a custom control configuration to ta
 - Auto-Detect Steamvr setting that launches the game in flat mode when you don't have a headset connected
 - Character cosmetics refelct on your backpack and hands
 - Much much more!
-
-# Known Issues
-- Some grass textures appear smeary. This is because they would only render in one eye and this was the best solution I could find. Might look into this later.
 
 # Install
 Grab the latest [Release](https://github.com/Minibattle/Powerwash-Simulator-2-VR-Mod/releases) and run the "install.cmd". That's it!
